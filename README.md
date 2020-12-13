@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 ![my image](https://agendarweb.com.ar/wp-content/uploads/2020/07/tecnolog%C3%ADa-y-creaci%C3%B3n.png)
-**jael-VRR/jael-VRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** ✨ _FRONT END DEVELOPER_ ✨ .
 
 Here are some ideas to get you started:
 
