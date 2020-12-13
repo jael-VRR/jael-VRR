@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 ![](https://agendarweb.com.ar/2020/07/19/que-es-la-tecnologia/)
 **jael-VRR/jael-VRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
